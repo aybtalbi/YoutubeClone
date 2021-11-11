@@ -1,0 +1,34 @@
+.menu {
+   top: 30%;
+    width: 200px; 
+    background-color: #af0d1e; 
+    padding-block: 50px ;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+    position: fixed;
+    transform: translateX(-170px);
+    transition: transform .3s ease-out;
+    color: white;
+
+  }
+.menu:hover {
+  transform: translateX(0px)
+
+}
+input:checked + span {
+  color: #fafafa;
+}
+.menu span{
+  color: #c8777f;
+  display: inline-block;
+  font-size: 1.3rem;
+  margin: 10px;
+}
+  
+.titre {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+
+
