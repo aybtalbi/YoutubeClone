@@ -1,6 +1,7 @@
 {
   "name": "react-course",
   "version": "0.1.0",
+  "homepage": "http://aybtalbi.github.io/YoutubeClone",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
